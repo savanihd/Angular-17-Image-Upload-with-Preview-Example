@@ -1,6 +1,11 @@
 # Angular 17 Image Upload with Preview Example
 
   Build Image upload with Preview example using Angular 16, Bootstrap and FormData with Progress Bars.
+  - upload only Image
+  - see the preview of image that will be uploaded
+  - see the upload process (percentage) of uploading image
+  - view all uploaded images
+  - download image by clicking on the file name
     - Step 1: Create Angular 17 Project
     - Step 2: Create Image Upload Component
     - Step 3: Import Component

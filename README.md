@@ -12,6 +12,14 @@ For more details, please visit:
 > [Angular 17 Image upload with Preview example](https://www.itsolutionstuff.com/post/angular-17-image-upload-with-preview-exampleexample.html)
 
 
+For more examples, please visit:
+> [Angular 17 CRUD Application Step by Step](https://www.itsolutionstuff.com/post/angular-17-crud-application-tutorial-exampleexample.html)
+
+> [Angular 17 Stripe Payment Gateway Example](https://www.itsolutionstuff.com/post/angular-17-stripe-payment-integration-exampleexample.html)
+
+> [Angular 17 Login with Google Example](https://www.itsolutionstuff.com/post/angular-17-login-with-google-gmail-account-exampleexample.html)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
 ## Development server
